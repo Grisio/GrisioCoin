@@ -3,7 +3,5 @@
   "symbol": "GRISIO",
   "description": "First token about Grisio, the god of apes.",
   "image": "https://raw.githubusercontent.com/Grisio/GrisioCoin/main/logo.png",
-  "extensions": {
-    "website": "http://grisio.unstoppable"
-  }
+  "createdOn": "https://grisio.net"
 }
